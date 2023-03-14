@@ -3,7 +3,7 @@
 
 This is a Intro to Compuational Lingustics's project. 
 Elizalike is a chatbot that responds when we enter some information to them.
-This is simple and easy conversational chatbot that repeating what user said by changing the Subject of the sentences. 
+This is simple and easy conversational chatbot that repeating what user said by changing the Subject of the sentences by chaning the -person reference to the right reference that we want elizalike to use.
 
 ## User story 
 
